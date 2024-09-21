@@ -67,3 +67,12 @@ color: rgb(43, 165, 108);
 .version{
 
 }
+.nobutton{
+ background-color: rgb(43, 165, 108);
+ font-size: 17px;
+ border-radius: 0px;
+ padding: 0px;
+ text-align: center;
+ margin: 0px;
+ color: rgb(255, 255, 255); 
+}
